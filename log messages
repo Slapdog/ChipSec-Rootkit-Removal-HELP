@@ -1,0 +1,11 @@
+08:56:02 kernel: kvm: disabled by bios
+08:56:02 kernel: kvm: disabled by bios
+08:56:02 arpwatch: Link layer type 113 not ethernet or fddi
+08:56:02 systemd-udevd: Error calling EVIOCSKEYCODE on device node '/dev/input/event10' (scan code 0x150, key code 190): Invalid argument
+08:56:00 kernel: tpm tpm0: A TPM error (6) occurred attempting to read a pcr value
+08:55:53 kernel: ACPI Error: Method parse/execution failed [\_SB.PCI0.LPCB.ECDV._Q66] (Node ffff92e1970b79b0), AE_NOT_FOUND (20160831/psparse-543)
+08:55:53 kernel: ACPI Error: Method parse/execution failed [\NEVT] (Node ffff92e1970b72d0), AE_NOT_FOUND (20160831/psparse-543)
+08:55:53 kernel: ACPI Error: Method parse/execution failed [\SMIE] (Node ffff92e1970b70c8), AE_NOT_FOUND (20160831/psparse-543)
+08:55:53 kernel: ACPI Error: Method parse/execution failed [\EV4] (Node ffff92e1970c02f8), AE_NOT_FOUND (20160831/psparse-543)
+08:55:53 kernel: ACPI Error: Method parse/execution failed [\_PR.PPCE] (Node ffff92e1970b49d8), AE_NOT_FOUND (20160831/psparse-543)
+08:55:53 kernel: ACPI Error: [\_PR_.CPU0._PPC] Namespace lookup failure, AE_NOT_FOUND (20160831/psargs-359)
